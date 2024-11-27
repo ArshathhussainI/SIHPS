@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27-11-2024
+## Register Number:24008800
+## Name:Arshath Hussain I
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,44 @@ Government of Gujarat
 
 ## Idea
 
+Alumni Registration: Easy sign-up process where alumni can join, update their profiles, and connect with peers and the college. Alumni can share their professional details, graduation year, and interests.
+
+Donation Portal: Secure system to donate money easily (one-time or recurring donations). Alumni can choose specific projects or causes to donate to and track their donation history.
+
+Networking Hub: Connect with other alumni based on shared interests, professions, or location. Alumni can join groups, chat, and collaborate. Mentorship programs to connect experienced alumni with younger ones.
+
+Job Portal: Alumni can post job openings or find job opportunities. Easy application process and notifications about new job listings.
+
+Alumni Directory: Search for alumni based on criteria like field of study, graduation year, or industry. Allows alumni to reconnect, network, and collaborate.
+
+Success Stories: Showcase notable alumni achievements to inspire others. Highlight career milestones, contributions, and success stories to create pride within the community.
+
+Events & Reunions: Keep alumni informed about upcoming events like reunions, workshops, and professional development sessions. RSVP and event registration system for easy participation.
+
+Feedback & Surveys: Alumni can provide feedback or suggestions to improve the platform and future events. Surveys to understand alumni needs and improve the association.
 
 ## Proposed Solution / Architecture Diagram
 
+![389870801-6021df3b-44ea-4b16-936d-3ac7dd3e5f68](https://github.com/user-attachments/assets/f498beb3-18a4-4c1b-8f19-1a9d54c0e20e)
 
 ## Use Cases
 
+![389881128-66af9f77-12d4-41da-bc28-46308304d574](https://github.com/user-attachments/assets/6b83d713-a5f0-4607-b3d2-fdccfeaa00a8)
 
 ## Technology Stack
 
+React
+
+Express.js
+
+Node.js
+
+Mango db
 
 ## Dependencies
 
+Frontend-20 days
+
+Backend-10 days
+
+Budget- rs.30,000
